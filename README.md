@@ -8,3 +8,9 @@ Used as a starting point for the code-with-me workshop
 
 ### Dataset_Diagnostics.ipynb
 Code and brief explanations of the diagnostics plots used
+
+### Post workshop exploration:
+1) Use DARTS with different models instead of LGBM Regressor
+2) Are there other features we can derive from the given features?
+3) Do we need so many extra features (Discount, Holiday, DayOfWeek, etc)? 
+4) Use different lags in DARTS (based on AC and PAC plots) 
