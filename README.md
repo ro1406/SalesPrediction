@@ -8,7 +8,7 @@ Used as a starting point for the code-with-me workshop
 
 ### Dataset_Diagnostics.ipynb
 Code and brief explanations of the diagnostics plots used
-
+---------------
 ### Post workshop exploration:
 1) Use DARTS with different models instead of LGBM Regressor
 2) Are there other features we can derive from the given features?
