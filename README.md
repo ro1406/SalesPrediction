@@ -1,4 +1,4 @@
-# Sales Prediction Workshop
+# Time Series Analysis – Sales Forecasting Workshop
 Code and datasets for the Sales Prediction Workshop by Rohan Mitra at Google DevFest UAE 2023 & Abu Dhabi Univeristy AI Day 2024.
 Dataset adapted from: https://www.kaggle.com/datasets/sureshmecad/supplement-sales-prediction
 
